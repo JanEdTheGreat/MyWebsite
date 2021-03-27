@@ -1,0 +1,129 @@
+h1{
+
+    text-align: center;
+}
+
+h2{
+
+    text-align: center;
+    margin: 0 auto;
+}
+
+.head{
+
+    background-color: #ffcb91;
+    margin: 0 auto;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.middle{
+
+    background-color: #ffefa1;
+    height: 500px;
+    position: relative;
+}
+
+.bottom{
+
+    background-color: #94ebcd;
+    height: 300px;
+}
+
+.picture{
+
+    height: 300px;
+    width: 300px;
+    position: relative;
+    top: 40px; left: 40px;
+}
+
+p{
+
+    text-align: center;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+body{
+
+    margin: 0%;
+}
+
+.image{
+
+    display: inline-block;
+    position: relative;
+    height: 70px;
+    width: 70px;
+
+}
+
+.ball{
+
+    position: relative;
+    top: 70px; left: 200px;
+    color: aqua;   
+}
+
+.icon{
+
+    height: 70px;
+    width: 70px;   
+}
+
+.facebook{
+
+    position: relative;
+    top: 37%; left: 40%;
+}
+
+.dial{
+
+    position: relative;
+    top: 37%; left: 47%;
+}
+
+.top-left{
+
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    position: relative;
+    top: 30%; left: 1%;
+}
+
+.name{
+
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 22%; right: 6%
+
+}
+
+.contact{
+  
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    bottom: 11%; left: 8%
+
+}
+
+.globe{
+
+    height: 70px;
+    width: 70px; 
+    position: relative;
+    bottom: 10%; left: 35%;
+
+}
+
+.car{
+
+    height: 70px;
+    width: 70px; 
+    position: relative;
+    bottom: 10%; left: 49%;
+}
